@@ -8,5 +8,11 @@ body {
     -moz-osx-font-smoothing: grayscale;
   }
   
-  
+ .cool {
+     color:green;
+     font: 1em sans-serif;
+     font-size: 2rem;
+     background-color: blue;
+     box-shadow: 2p;x
+ } 
   
